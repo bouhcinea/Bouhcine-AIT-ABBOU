@@ -1,4 +1,3 @@
-# Bouhcine-AIT-ABBOU
 <h1 align="center">Hi 👋, I'm Bouhcine AIT ABBOU</h1>
 <h3 align="center">A Cyber Security Student at AIAC and a CTF Player</h3>
 
